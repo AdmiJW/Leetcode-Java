@@ -10,7 +10,7 @@ package Easy;
 
 
 
-class Solution {
+class $1491_Average_Salary_Excluding_the_Minimum_and_Maximum_Salary {
     public double average(int[] salary) {
         int min = Integer.MAX_VALUE;
         int max = Integer.MIN_VALUE;

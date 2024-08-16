@@ -14,7 +14,7 @@ import java.util.*;
  */
 
 
-class Solution {
+class $1282_Group_the_People_Given_the_Group_Size_They_Belong_To {
     public List<List<Integer>> groupThePeople(int[] groupSizes) {
         final int len = groupSizes.length;
 

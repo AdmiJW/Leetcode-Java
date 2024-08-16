@@ -2,6 +2,8 @@ package Medium;
 
 import java.util.List;
 
+// https://leetcode.com/problems/maximum-distance-in-arrays
+
 // This is a arrays, greedy problem
 //
 // Given a 2D array of integers, each array is already sorted in ascending order.
